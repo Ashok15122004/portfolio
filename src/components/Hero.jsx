@@ -50,13 +50,7 @@ export default function Hero() {
               Download Resume
             </a>
 
-            <a
-              href="mailto:ashok15122004@gmail.com"
-              className="border border-blue-500 hover:bg-blue-600 px-6 py-3 rounded-lg flex items-center gap-2 transition"
-            >
-              <FaEnvelope />
-              Contact Me
-            </a>
+            
           </div>
 
           <div className="flex gap-6 mt-8 text-3xl">
