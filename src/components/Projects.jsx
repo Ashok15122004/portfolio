@@ -6,7 +6,7 @@ const projects = [
     description:
       "A smart agriculture dashboard with AI-powered recommendations, real-time sensor monitoring, and analytics.",
     tech: ["React", "Express", "Python", "SQLite", "Chart.js"],
-    github: "https://github.com/Asok15122004/smart-farming-dashboard",
+    github: "https://github.com/Asok15122004/smart-agriculture-project",
     demo: "#",
   },
 ];
